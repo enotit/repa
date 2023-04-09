@@ -1,0 +1,8 @@
+.tesla {
+  color: black;
+  transition: color 6s ease-in;
+}
+
+.tesla:hover{
+  color: red;
+}
